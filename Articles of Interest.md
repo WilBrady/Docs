@@ -81,6 +81,9 @@ _What are your intentions? Does your calendar and activity match those? Aligning
 2 - [To Get People to Embrace Change, Emphasize What Will Stay the Same](https://hbr.org/2018/08/research-to-get-people-to-embrace-change-emphasize-what-will-stay-the-same)
 _When re-orgs or charters change, leaders emphasize why the change is good or going to make things better, but some studies show including details on continuity (especially of the orgs identity) help employees accept the change._
 
+3 - [4 Reasons Good Employees Lose Their Motivation](https://hbr.org/2019/03/4-reasons-good-employees-lose-their-motivation)
+_Breaks down lack of motivations into simple and clear categories. Quick read and good framing._
+
 3 - [How to Decide Which Tasks to Delegate](https://hbr.org/2017/07/how-to-decide-which-tasks-to-delegate)
 _Master delegation. Good ideas and quick read._
 
